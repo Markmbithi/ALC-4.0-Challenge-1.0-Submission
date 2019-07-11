@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="aboutalc">About ALC</string>
+    <string name="myprofile">My Profile</string>
+    <string name="maintitle">Welcome to A.L.C 4.0</string>
+    <string name="profile_name">Mark Mbithi</string>
+    <string name="track_Label">Track:</string>
+    <string name="track_Name">Android</string>
+    <string name="country_label">Country:</string>
+    <string name="email_label">Email:</string>
+    <string name="phone_label">Phone Number:</string>
+    <string name="slack_label">Slack Username:</string>
+    <string name="country_value">Kenya</string>
+    <string name="email_value">markmbila@gmail.com</string>
+    <string name="phone_value">+254725514501</string>
+    <string name="slack_value">\@markmbithi</string>
+    <string name="AboutALC">https://andela.com/alc/</string>
+    <string name="aboutActivityName">About ALC</string>
+    <string name="profileActivityName">My Profile</string>
+</resources>
